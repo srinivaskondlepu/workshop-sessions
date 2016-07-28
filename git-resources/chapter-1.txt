@@ -1,5 +1,7 @@
 The Free Software Definition
 
+by Richard M. Stallman
+
 We maintain this free software definition to show clearly what must be
 true about a particular software program for it to be considered free
 software. From time to time we revise this definition to clarify

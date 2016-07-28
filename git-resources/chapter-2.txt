@@ -1,5 +1,7 @@
 Your Freedom Needs Free Software
 
+by Richard M. Stallman
+
 Many of us know that governments can threaten the human rights of
 software users through censorship and surveillance of the
 Internet. Many do not realize that the software they run on their home
